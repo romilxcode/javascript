@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.showRunCommandInEditorContextMenu": false,
+    "editor.lineNumbers": "on",
+    "files.autoSave": "afterDelay",
+    "search.showLineNumbers": false,
+    "code-runner.runInTerminal": true
+}
